@@ -1,0 +1,8 @@
+{
+    "AppName": "AI",
+    "WinWidth": 1280,
+    "WinHeight": 768,
+    "FullScreen": false,
+    "SoundPath": "../Assets/Sounds",
+    "TexturePath": "../Assets/Images"
+}
